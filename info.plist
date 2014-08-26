@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string></string>
+	<key>contactName</key>
+	<string>Lucas Morales</string>
+	<key>description</key>
+	<string>Bundle for {{ moustache }} javascript syntax highlighting in html markups.</string>
+	<key>name</key>
+	<string>Moustache</string>
+	<key>uuid</key>
+	<string>75BDAA3E-7E9F-4A6B-BE0C-F4302F38E9A1</string>
+</dict>
+</plist>
